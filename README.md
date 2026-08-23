@@ -27,7 +27,7 @@ Tools & Platforms <br/> <img src="https://skillicons.dev/icons?i=git,github,vsco
 </div>
 <!-- ===================== GITHUB STATS ===================== -->
 📊 GitHub Analytics
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreedevi8520&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sreedevi8520&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=c9d1d9"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi8520&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9"/> </div> <!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<user=sreedevi8520&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=c9d1d9"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi8520&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9"/> </div> <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreedevi8520&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff"/> <!-- Contribution Snake Placeholder --> <img src="https://raw.githubusercontent.com/sreedevi8520/sreedevi8520/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
