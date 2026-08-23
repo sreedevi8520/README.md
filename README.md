@@ -25,9 +25,7 @@ Backend & Database <br/> <img src="https://skillicons.dev/icons?i=nodejs,mysql&t
 Tools & Platforms <br/> <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
-<!-- ===================== GITHUB STATS ===================== -->
-📊 GitHub Analytics
-<user=sreedevi8520&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=c9d1d9"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevi8520&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9"/> </div> <!-- ===================== CONTRIBUTION GRAPH ===================== -->
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreedevi8520&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff"/> <!-- Contribution Snake Placeholder --> <img src="https://raw.githubusercontent.com/sreedevi8520/sreedevi8520/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
